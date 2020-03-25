@@ -374,15 +374,6 @@ class Ngram_Language_Model:
                 float. The smoothed probability.
         """  
         return (numerator+1)/(denominator+len(self.vocab))
-         
-  
-def who_am_i(): #this is not a class method
-    """Returns a ductionary with your name, id number and email. keys=['name', 'id','email']
-        Make sure you return your own info!
-    """
-    return {'name': 'Mor Kertis', 'id': '300830692', 'email': 'morker@post.bgu.ac.il'}
-
-
 
 def read_file(file_path):
     '''

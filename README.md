@@ -3,4 +3,4 @@
 The purpose of this assignment is to give a hands on experience with probabilistic models of language by implementing the full algorithmic pipeline.
 
 References:
--[A Spelling Correction Program Based on a Noisy Channel Model](https://dl.acm.org/doi/pdf/10.3115/997939.997975)
+- [A Spelling Correction Program Based on a Noisy Channel Model](https://dl.acm.org/doi/pdf/10.3115/997939.997975)

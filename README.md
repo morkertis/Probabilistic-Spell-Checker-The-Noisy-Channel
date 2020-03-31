@@ -1,6 +1,6 @@
 # Probabilistic-Spell-Checker-The-Noisy-Channel
 ### Spell checker that handles both non-word and real-word errors given in a context
-The purpose of this assignment is to give a hands on experience with probabilistic models of language by implementing the full algorithmic pipeline.
+The purpose of this assignment is to build probabilistic language models by implementing the full algorithmic pipeline.
 
 Specifics:
 - Use the noisy channel model to correct the errors: 
